@@ -8,9 +8,10 @@ This app was developed following [this layout](https://www.figma.com/file/THLxZS
 
 It's used the REST to fetch the Pokémon data through of [Pokeapi](https://pokeapi.co/).
 
+note: only android version is working until this moment.
 ## Demo
 
-<img src="https://github.com/claudiopelizari/pokedex-app/blob/master/pokedex-app.gif" width="50%">
+<img src="https://github.com/claudiopelizari/pokedex-app/blob/master/pokedex-app.gif" width="30%">
 
 
 ## Running this project
