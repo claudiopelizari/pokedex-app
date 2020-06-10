@@ -6,7 +6,7 @@
 
 This app was developed following [this layout](https://www.figma.com/file/THLxZSlOoUYMZrjFg0Kl1M/Pok%C3%A9dex?node-id=268%3A320). To attend a frontend challenge purposed.
 
-It's used the REST to fetch the Pokémon data through of [Pokeapi](https://pokeapi.co/).
+It's used the REST method to fetch the Pokémon data through of [Pokeapi](https://pokeapi.co/).
 
 note: only android version is working until this moment.
 ## Demo
