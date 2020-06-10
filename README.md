@@ -10,7 +10,7 @@ It's used the REST to fetch the Pokémon data through of [Pokeapi](https://pokea
 
 ## Demo
 
-<img src="https://github.com/claudiopelizari/pokedex-app/blob/master/pokedex-app.gif" width="100%">
+<img src="https://github.com/claudiopelizari/pokedex-app/blob/master/pokedex-app.gif" width="50%">
 
 
 ## Running this project
@@ -38,5 +38,6 @@ git clone https://github.com/claudiopelizari/pokedex-app.git
 ## License
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+
 Made with ♥ by Pelizari :wave: [Get in touch!](https://www.linkedin.com/in/pelizari/)
 
